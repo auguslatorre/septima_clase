@@ -1,0 +1,16 @@
+body{
+	padding-top: 3rem;
+}
+
+rect{
+fill:steelblue;
+}
+
+rect:hover{
+fill:#456;
+transition: all ease .5s;
+cursor: crosshair;
+}
+script{
+	font-family: 'Gaegu', cursive;
+}
